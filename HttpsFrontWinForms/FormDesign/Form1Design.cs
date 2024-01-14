@@ -82,7 +82,7 @@ namespace HttpsFrontWinForms.FormDesign
             buttonErase.UseVisualStyleBackColor = true;
             buttonErase = (Button)ControlsSetting(buttonErase, @"buttonErase", 600, 490, 150, 50);
 
-            labelFoot.Text = @"Copyright (c)  2021-2023  entrance-to-develop06";
+            labelFoot.Text = @"Copyright (c)  2021-2024  entrance-to-develop06";
             labelFoot.AutoSize = false;
             labelFoot = (Label)ControlsSetting(labelFoot, @"labelFoot", 30, 540, 400, 25);
         }

@@ -197,10 +197,10 @@ namespace HttpsFrontWinForms
             this.Text = "RESTful API クライアント(HttpClient)";
             this.StartPosition = FormStartPosition.Manual;
             this.Location = new Point(500, 200);
-            this.Size = new Size(800, 600);
+            this.Size = new Size(800, 610);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.AutoScaleDimensions = new SizeF(7F, 15F);
+            //this.AutoScaleDimensions = new SizeF(7F, 15F);
             this.AutoScaleMode = AutoScaleMode.Font;
             this.Load += new EventHandler(this.Form1Control_Load!);
 

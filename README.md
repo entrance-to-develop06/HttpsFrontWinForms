@@ -3,13 +3,13 @@
 ## 開発環境  
 
 ```
-統合開発環境：Microsoft Visual Studio 2022 Community Edition 17.5.5  
-プログラム言語：C#.NET 10  
-フレームワーク：.NET 6.0.16  
-開発SDK：.NET SDK 6.0.408  
+統合開発環境：Microsoft Visual Studio 2022 Community Edition 17.8.4  
+プログラム言語：C#.NET 12  
+フレームワーク：.NET 8.0.1  
+開発SDK：.NET SDK 8.0.101  
 デスクトップ：Windows Forms  
-NuGetライブラリー：Microsoft.Extensions.DependencyInjection 7.0.0  
-                  Microsoft.Extensions.Http 7.0.0  
+NuGetライブラリー：Microsoft.Extensions.DependencyInjection 8.0.0  
+                  Microsoft.Extensions.Http 8.0.0  
 ```
 
 #### 画面イメージ  
