@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 namespace HttpsFrontWinForms
 {
     /// <summary>メインフォーム</summary>
-    /// <remarks>Nuget Package : NuGet\Install-Package Microsoft.Extensions.Http -Version 7.0.0</remarks>
+    /// <remarks>Nuget Package : NuGet\Install-Package Microsoft.Extensions.Http -Version 10.0.11</remarks>
     public partial class Form1Control : Form
     {
         private static HttpClient? httpClient;
