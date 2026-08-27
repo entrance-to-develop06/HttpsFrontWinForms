@@ -9,7 +9,7 @@ namespace HttpsFrontWinForms.Http
 {
     public class HttpPort
     {
-        private static HttpClient? httpClient;
+        private HttpClient? httpClient = new(); //private static HttpClient? httpClient;にしていたが何故か？2026/08/27に疑問
         private HttpSetting settings = new HttpSetting();
         private bool Fauthentication = true; // 認証済みOK/NG
         private string CONTENT_TYPE = @"application/json";

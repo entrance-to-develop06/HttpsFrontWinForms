@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\http\\httpport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\http\\httpport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\model\\appservice\\shohinappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\model\\appservice\\shohinappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\http\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\http\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\formdesign\\formauthdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\formdesign\\formauthdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\http\\httpsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\http\\httpsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\formdesign\\form1design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\formdesign\\form1design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\model\\appservice\\dto\\shohindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\model\\appservice\\dto\\shohindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\form1control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\form1control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,18 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\formdesign\\formdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\formdesign\\formdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\formdesign\\formauthdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\formdesign\\formauthdesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\model\\appservice\\shohinappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\model\\appservice\\shohinappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|c:\\workspace\\dotnet\\httpsfrontwinforms\\httpsfrontwinforms\\http\\httpport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52249827-4319-43A9-B707-2F73055CA7B8}|HttpsFrontWinForms\\HttpsFrontWinForms.csproj|solutionrelative:httpsfrontwinforms\\http\\httpport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,34 +50,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShohinDto.cs",
-              "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Model\\AppService\\Dto\\ShohinDto.cs",
-              "RelativeDocumentMoniker": "HttpsFrontWinForms\\Model\\AppService\\Dto\\ShohinDto.cs",
-              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Model\\AppService\\Dto\\ShohinDto.cs",
-              "RelativeToolTip": "HttpsFrontWinForms\\Model\\AppService\\Dto\\ShohinDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T07:25:26.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1Control.cs [Design]",
+              "DocumentIndex": 8,
+              "Title": "Form1Control.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Form1Control.cs",
               "RelativeDocumentMoniker": "HttpsFrontWinForms\\Form1Control.cs",
-              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Form1Control.cs [Design]",
-              "RelativeToolTip": "HttpsFrontWinForms\\Form1Control.cs [Design]",
+              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Form1Control.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "HttpsFrontWinForms\\Form1Control.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T07:22:18.198Z"
+              "WhenOpened": "2026-08-26T07:22:18.198Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1Design.cs",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\FormDesign\\Form1Design.cs",
               "RelativeDocumentMoniker": "HttpsFrontWinForms\\FormDesign\\Form1Design.cs",
@@ -86,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "FormAuthDesign.cs",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\FormDesign\\FormAuthDesign.cs",
               "RelativeDocumentMoniker": "HttpsFrontWinForms\\FormDesign\\FormAuthDesign.cs",
@@ -94,11 +87,12 @@
               "RelativeToolTip": "HttpsFrontWinForms\\FormDesign\\FormAuthDesign.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T07:22:18.265Z"
+              "WhenOpened": "2026-08-26T07:22:18.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "FormDesign.cs",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\FormDesign\\FormDesign.cs",
               "RelativeDocumentMoniker": "HttpsFrontWinForms\\FormDesign\\FormDesign.cs",
@@ -110,19 +104,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "HttpPort.cs",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Http\\HttpPort.cs",
               "RelativeDocumentMoniker": "HttpsFrontWinForms\\Http\\HttpPort.cs",
               "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Http\\HttpPort.cs",
               "RelativeToolTip": "HttpsFrontWinForms\\Http\\HttpPort.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T07:22:18.274Z"
+              "WhenOpened": "2026-08-26T07:22:18.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ShohinAppService.cs",
+              "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Model\\AppService\\ShohinAppService.cs",
+              "RelativeDocumentMoniker": "HttpsFrontWinForms\\Model\\AppService\\ShohinAppService.cs",
+              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Model\\AppService\\ShohinAppService.cs",
+              "RelativeToolTip": "HttpsFrontWinForms\\Model\\AppService\\ShohinAppService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:22:18.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Http\\Authentication.cs",
+              "RelativeDocumentMoniker": "HttpsFrontWinForms\\Http\\Authentication.cs",
+              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Http\\Authentication.cs",
+              "RelativeToolTip": "HttpsFrontWinForms\\Http\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:09:38.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpSetting.cs",
+              "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Http\\HttpSetting.cs",
+              "RelativeDocumentMoniker": "HttpsFrontWinForms\\Http\\HttpSetting.cs",
+              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Http\\HttpSetting.cs",
+              "RelativeToolTip": "HttpsFrontWinForms\\Http\\HttpSetting.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:10:07.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShohinDto.cs",
+              "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Model\\AppService\\Dto\\ShohinDto.cs",
+              "RelativeDocumentMoniker": "HttpsFrontWinForms\\Model\\AppService\\Dto\\ShohinDto.cs",
+              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Model\\AppService\\Dto\\ShohinDto.cs",
+              "RelativeToolTip": "HttpsFrontWinForms\\Model\\AppService\\Dto\\ShohinDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:25:26.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Program.cs",
               "RelativeDocumentMoniker": "HttpsFrontWinForms\\Program.cs",
@@ -131,30 +177,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T07:22:18.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1Control.cs",
-              "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Form1Control.cs",
-              "RelativeDocumentMoniker": "HttpsFrontWinForms\\Form1Control.cs",
-              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Form1Control.cs",
-              "RelativeToolTip": "HttpsFrontWinForms\\Form1Control.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwA8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T07:22:18.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShohinAppService.cs",
-              "DocumentMoniker": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Model\\AppService\\ShohinAppService.cs",
-              "RelativeDocumentMoniker": "HttpsFrontWinForms\\Model\\AppService\\ShohinAppService.cs",
-              "ToolTip": "C:\\Workspace\\DotNet\\HttpsFrontWinForms\\HttpsFrontWinForms\\Model\\AppService\\ShohinAppService.cs",
-              "RelativeToolTip": "HttpsFrontWinForms\\Model\\AppService\\ShohinAppService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA5wB8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T07:22:18.466Z"
             }
           ]
         }
